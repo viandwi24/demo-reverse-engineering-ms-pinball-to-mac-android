@@ -1,0 +1,13 @@
+build/
+build-*/
+android/build/
+android/debug.keystore
+re/decomp/
+re/asm/
+re/extra/
+re/ghidra_proj/
+re/out/
+3dPinballWindows/*
+!3dPinballWindows/README.md
+.DS_Store
+first_test/build/
